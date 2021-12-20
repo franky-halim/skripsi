@@ -1,1 +1,1 @@
-"# skripsi" 
+SKRIPSI-C14170033-Franky Halim
