@@ -1,0 +1,16 @@
+Jakarta, CNN Indonesia -- Para ilmuwan menemukan 'antibodi super' yang dapat melawan berbagai varian virus corona SARS-CoV-2 dan virus lain yang termasuk dalam keluarga virus corona (SARS-CoV).
+Penelitian ini dipimpin oleh Tyler Starr, ahli biokimia di Pusat Penelitian Kanker Fred Hutchinson di Seattle, Amerika Serikat, bersama rekan-rekannya di oleh Vir Biotechnology, sebuah perusahaan yang berbasis di San Francisco, California.
+Ia berharap temuan ini disebut bisa membantu mengembangkan pengobatan dan vaksin yang lebih luas. Pasalnya beberapa varian Covid-19 berhasil lolos dari pertahanan antibodi. Sehingga, perlu ditemukan cara agar bisa melawan virus ini.
+Para peneliti memeriksa 12 antibodi yang dikestraksi dari sampel darah orang yang telah pulih dari Covid-19. Kemudian sampel antibodi itu diisolasi dari orang-orang yang telah terinfeksi SarS-CoV-2.
+Antibodi yang telah diperiksa oleh para ahli dalam penelitian itu, menempel pada bagian protein virus yang menempel pada reseptor ACE2 yang ada dalam sel manusia.
+Para peneliti lantas menyusun daftar ribuan mutasi dalam domain pengikatan beberapa varian SARS-CoV-2. Mereka juga membuat katalog mutasi dalam pengikatan lusinan virus corona yang serupa.
+Akhirnya, mereka menilai bagaimana semua mutasi itu memengaruhi kemampuan 12 antibodi untuk menempel pada domain pengikatan.
+Di akhir penelitian, mereka menemukan bahwa antibodi yang dikenal sebagai S2H97 memiliki keunggulan karena kemampuannya untuk menempel pada domain pengikatan semua jenis sarbecovirus yang telah diperiksa dalam penelitian.
+S2H97, yang penulis sebut sebagai antibodi pan-sarbecovirus, mampu mencegah berbagai varian SarS-CoV-2, dan sarbecovirus lainnya yang menyebar di antara sel-sel yang tumbuh di laboratorium.
+Antibodi ini sudah diuji kepada hamster dan terbukti cukup kuat untuk melindungi dari infeksi SarS-CoV-2.Tyler mengklaim itu adalah antibodi paling kuat yang telah ditemukan sejauh ini.
+"Itu antibodi paling keren yang kami jelaskan," kata Tayler.
+Para ahli mengatakan bahwa saat menguji susunan molekul antibodi S2H97, mereka telah menemukan bahwa antibodi super menetapkan targetnya pada wilayah domain pengikatan yang belum pernah terlihat sebelumnya dan tersembunyi dengan baik.
+Dikutip Market, Tayler mencatat bahwa molekul yang menargetkan wilayah peningkatan domainitu dapat menghasilkan perlindungan terhadap banyak virus, dan nantinya dapat digunakan dalam vaksin pan-sarbecovirus.
+Tim juga menemukan bahwa antibodi yang dapat menonaktifkan berbagai macam virus, dapat menargetkan bagian dari domain pengikatan yang cenderung tidak berubah saat virus bermutasi. Ahli virologi di University of Saskatchewan di Saskatoon, Kanada, Arinjay Banerjee mengatakan hal itumerupakan kabar baik, bahwa tim telah mengidentifikasi antibodi yang dapat mengikat berbagai sarbecovirus.
+"Pertanyaan terbesar yang tersisa adalah, bagaimana dengan virus yang belum kita ketahui keberadaannya?" tandas Arinjay seperti dikutip Nature.
+Meskipun para ilmuwan tidak dapat menguji aktivitas antibodi terhadap virus yang tidak diketahui, Arinjay mengatakan, perawatan dan vaksin pan-sarbecovirus akan membantu mempersiapkan dunia untuk melawan virus corona berikutnya yang melompat dari satwa liar ke manusia.
